@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+table, tr, td{
+	margin:0px;
+	padding:0px;
+	background:#dee;
+	border: 1px solid black;
+	border-spacing: 1px;
+}
+td img {display: block;}
